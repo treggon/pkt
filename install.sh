@@ -9,3 +9,5 @@ cd PacketCrypt
 ./configure
 make
 npm install -y
+cp ../dowork.sh . 
+chmod +x dowork.sh
